@@ -1,0 +1,7 @@
+.body {
+  display: flex;
+}
+.contact {
+  justify-content: center;
+  text-align: center;
+}
