@@ -1,4 +1,5 @@
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+
 import Home from "./components/home/Home";
 import Login from "./components/login/Login";
 import NavBar from "./components/NavBar/NavBar";
@@ -6,6 +7,7 @@ import Register from "./components/register/Register";
 import Rendezvous from "./components/rendez-vous/RendezVous";
 import Specialités from "./components/specialités/Specialités";
 import Contact from "./components/contact/Contact";
+
 function App() {
   return (
     <Router>

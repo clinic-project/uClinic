@@ -1,0 +1,7 @@
+.body {
+  display: flex;
+}
+.backImg {
+  width: 100%;
+  height: auto;
+}
